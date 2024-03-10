@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Привет! Меня зовут Никита</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Я начинающий разработчик на Python</h3>
+
+
+
+
+Немного статистики:
+<h4 align="center"><href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SavenkoNikita&theme=highcontrast&hide_border=true&locale=ru" alt="GitHub Streak" /></h4>
 
 <!--
 **SavenkoNikita/SavenkoNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Просмотров за месяц](https://activity-graph.herokuapp.com/graph?username=SavenkoNikita)](https://github.com/ashutosh00710/github-readme-activity-graph)
