@@ -14,6 +14,9 @@
 
 ### Немного статистики:
 <h4 align="left"><href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SavenkoNikita&theme=highcontrast&hide_border=false&locale=ru" alt="GitHub Streak" /></h4>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavenkoNikita&locale=ru&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavenkoNikita&layout=donut&locale=ru&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=SavenkoNikita&label=Счётчик+просмотров&style=for-the-badge)
