@@ -11,6 +11,7 @@
 • Базы данных для python-разработчиков ([пример кода](https://github.com/SavenkoNikita/Netology/blob/main/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20PostgreSQL%20%D0%B8%D0%B7%20Python), [сертификат](https://netology.ru/backend/api/user/programs/37299/pdf_certificate))\
 • Профессиональная работа с Python ([пример кода](https://github.com/SavenkoNikita/Netology), [сертификат](https://netology.ru/backend/api/user/programs/39879/pdf_certificate))\
 • Django: создание backend-приложений ([пример кода](https://github.com/SavenkoNikita/dj-homeworks_1.2-requests-templates/tree/video/2.2-databases-2), [сертификат](https://netology.ru/backend/api/user/programs/39740/pdf_certificate))
+• HTML и CSS: основы веб-верстки ([пример кода](https://codepen.io/SavenkoNikita/pens/public), [сертификат](https://netology.ru/backend/api/user/programs/44607/pdf_certificate))
 
 ### Немного статистики:
 <h4 align="left"><href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SavenkoNikita&theme=highcontrast&hide_border=false&locale=ru" alt="GitHub Streak" /></h4>
