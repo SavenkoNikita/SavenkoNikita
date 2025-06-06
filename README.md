@@ -12,7 +12,10 @@
 • Профессиональная работа с Python ([пример кода](https://github.com/SavenkoNikita/Netology), [сертификат](https://netology.ru/sharing/ffc02f390efe6c2d7b897e5ad04022ff?utm_source=social&utm_campaign=achievements))\
 • Django: создание backend-приложений ([пример кода](https://github.com/SavenkoNikita/dj-homeworks_1.2-requests-templates/tree/video/2.2-databases-2), [сертификат](https://netology.ru/sharing/a993ea25eb2457619a4e0d65fcb5716c?utm_source=social&utm_campaign=achievements))\
 • HTML и CSS: основы веб-верстки ([пример кода](https://codepen.io/SavenkoNikita/pens/public), [сертификат](https://netology.ru/sharing/ab7076a59774a6ec1ea6783755716e7f?utm_source=social&utm_campaign=achievements))\
-• JavaScript: основы работы в браузере ([пример кода](https://github.com/SavenkoNikita/bhj-homeworks), [сертификат](https://netology.ru/sharing/3944ed3c8702373702b37d0e173d614b?utm_source=social&utm_campaign=achievements))
+• JavaScript: основы работы в браузере ([пример кода](https://github.com/SavenkoNikita/bhj-homeworks), [сертификат](https://netology.ru/sharing/3944ed3c8702373702b37d0e173d614b?utm_source=social&utm_campaign=achievements))\
+• JavaScript: углубленный курс веб-разработки ([пример кода](https://github.com/SavenkoNikita/newtype), [сертификат](https://netology.ru/sharing/a7ca66917d85d040aab71a591bb62b76?utm_source=social&utm_campaign=certificate_lms))\
+• Расширенный инструментарий JavaScript в браузере ([скоро](), [сертификат]())\
+• React: Библиотека №1 в современной фронтенд-разработке ([скоро](), [сертификат]())
 
 ### Немного статистики:
 <h4 align="left"><href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SavenkoNikita&theme=highcontrast&hide_border=false&locale=ru" alt="GitHub Streak" /></h4>
