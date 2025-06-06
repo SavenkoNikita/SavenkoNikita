@@ -14,8 +14,8 @@
 • HTML и CSS: основы веб-верстки ([пример кода](https://codepen.io/SavenkoNikita/pens/public), [сертификат](https://netology.ru/sharing/ab7076a59774a6ec1ea6783755716e7f?utm_source=social&utm_campaign=achievements))\
 • JavaScript: основы работы в браузере ([пример кода](https://github.com/SavenkoNikita/bhj-homeworks), [сертификат](https://netology.ru/sharing/3944ed3c8702373702b37d0e173d614b?utm_source=social&utm_campaign=achievements))\
 • JavaScript: углубленный курс веб-разработки ([пример кода](https://github.com/SavenkoNikita/newtype), [сертификат](https://netology.ru/sharing/a7ca66917d85d040aab71a591bb62b76?utm_source=social&utm_campaign=certificate_lms))\
-• Расширенный инструментарий JavaScript в браузере ([скоро](), [сертификат]())\
-• React: Библиотека №1 в современной фронтенд-разработке ([скоро](), [сертификат]())
+• Расширенный инструментарий JavaScript в браузере (в процессе)\
+• React: Библиотека №1 в современной фронтенд-разработке (в процессе)
 
 ### Немного статистики:
 <h4 align="left"><href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SavenkoNikita&theme=highcontrast&hide_border=false&locale=ru" alt="GitHub Streak" /></h4>
