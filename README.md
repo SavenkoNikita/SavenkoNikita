@@ -16,7 +16,7 @@
 • JavaScript: углубленный курс веб-разработки ([пример кода](https://github.com/SavenkoNikita/newtype), [сертификат](https://netology.ru/sharing/a7ca66917d85d040aab71a591bb62b76?utm_source=social&utm_campaign=certificate_lms))\
 • Расширенный инструментарий JavaScript в браузере ([пример кода](https://github.com/SavenkoNikita/popover-widget), [сертификат](https://netology.ru/sharing/a47b2e03797154c3d399c5c11c855ddf?utm_source=social&utm_campaign=certificate_lms))\
 • React: Библиотека №1 в современной фронтенд-разработке ([пример кода](https://github.com/SavenkoNikita/event-handling), [сертификат](https://netology.ru/sharing/2397b471f26e06b5c21ea8446cd96777?utm_source=social&utm_campaign=certificate_lms))\
-• Дипломный блок профессии Fullstack-разработчик на Python ([пример кода](https://github.com/SavenkoNikita/my_cloud), [сертификат](https://netology.ru/backend/api/user/programs/44321/pdf_certificate))
+• Дипломный блок профессии Fullstack-разработчик на Python ([пример кода](https://github.com/SavenkoNikita/my_cloud), [сертификат]([https://netology.ru/backend/api/user/programs/44321/pdf_certificate](https://netology.ru/sharing/ca2c5eb6f8a31a4350ea4797392f1d0a?utm_source=social&utm_campaign=certificate_lms )))
 
 ### Немного статистики:
 <h4 align="left"><href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SavenkoNikita&theme=highcontrast&hide_border=false&locale=ru" alt="GitHub Streak" /></h4>
