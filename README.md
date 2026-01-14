@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я начинающий разработчик на Python</h3>
 
-В настоящее изучаю программу курса [Fullstack-разработчик на Python](https://netology.ru/programs/fullstack-python-dev) в [Нетологии](https://netology.ru/).
+Окончил программу курса [Fullstack-разработчик на Python](https://netology.ru/programs/fullstack-python-dev) в [Нетологии](https://netology.ru/).
 
 ### Вот что я умею:
 • Основы языка программирования Python ([сертификат](https://netology.ru/sharing/0253ce00fc690e2ad22b506bde07c225?utm_source=social&utm_campaign=certificate_lms))\
